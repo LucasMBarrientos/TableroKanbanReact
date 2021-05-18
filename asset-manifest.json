@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/TableroKanbanReact/static/js/main.80db599e.chunk.js",
+    "main.js.map": "/TableroKanbanReact/static/js/main.80db599e.chunk.js.map",
+    "runtime-main.js": "/TableroKanbanReact/static/js/runtime-main.7b108ce6.js",
+    "runtime-main.js.map": "/TableroKanbanReact/static/js/runtime-main.7b108ce6.js.map",
+    "static/js/2.01a88527.chunk.js": "/TableroKanbanReact/static/js/2.01a88527.chunk.js",
+    "static/js/2.01a88527.chunk.js.map": "/TableroKanbanReact/static/js/2.01a88527.chunk.js.map",
+    "index.html": "/TableroKanbanReact/index.html",
+    "static/js/2.01a88527.chunk.js.LICENSE.txt": "/TableroKanbanReact/static/js/2.01a88527.chunk.js.LICENSE.txt",
+    "static/media/cancel.38fa189b.svg": "/TableroKanbanReact/static/media/cancel.38fa189b.svg",
+    "static/media/garbage.0588e2f1.svg": "/TableroKanbanReact/static/media/garbage.0588e2f1.svg",
+    "static/media/left.46f9b388.svg": "/TableroKanbanReact/static/media/left.46f9b388.svg",
+    "static/media/right.e69630ed.svg": "/TableroKanbanReact/static/media/right.e69630ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b108ce6.js",
+    "static/js/2.01a88527.chunk.js",
+    "static/js/main.80db599e.chunk.js"
+  ]
+}
