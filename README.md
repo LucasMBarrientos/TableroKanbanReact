@@ -6,3 +6,4 @@ Para los estilos se utilizó styled-components, así como también fueron usadas
 
 Una vez descargado el código se puede ejecutar con el comando "npm start" para abrir un puerto local con la misma.
 
+También existe la posibilidad de probar la aplicación por su github pages: https://lucasmbarrientos.github.io/TableroKanbanReact/
